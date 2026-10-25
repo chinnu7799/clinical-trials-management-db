@@ -1,2 +1,1 @@
-Displays the study name, site name, patient name, and site city.
-
+select * from sys.tables where name like '%join%'
